@@ -1,0 +1,56 @@
+body{
+    background-color: #EFEFEF; 
+    padding: 20px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.main{
+    max-width: 6000px;
+    margin: auto;
+    background-color: #EFEFEF; 
+}
+
+#secondarytitle{
+    text-align: left;
+    border-bottom-style: ridge;
+    border-width: 10px; 
+}
+
+#maintitle{
+    text-align: center;
+    border-bottom-style: ridge;
+    border-width: 10px;
+}
+#thirdtitle{
+    text-align: center;
+    border-bottom-style: ridge;
+    border-width: 10px; 
+}
+
+#centerimage{
+    margin-right: auto;
+    margin-left: auto;
+    border-style: solid;
+    border-width: 25px;
+    border-color: #ffffff;
+    background-color: #ffffff;
+    max-width: 60%;
+}
+
+.column{
+    column-count: 3;
+    padding: 10px;
+}
+.content{
+    background-color: #ffffff;
+    padding: 10px;
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+
